@@ -168,11 +168,11 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:-----|:------|
-| **B.E. Computer Science & Engineering** | SRM Valliammai Engineering College, Kattankulathur, Tamil Nadu | Nov 2022 – May 2026 | Graduated |
-| **12th Grade (HSC)** | Vivekanandha Higher Secondary School, Pondicherry | 2021 – 2022 | — |
-| **10th Grade (SSLC)** | St. Patrick Matric Higher Secondary School, Pondicherry | 2019 – 2020 | — |
+| Degree | Institution | Year | 
+|:-------|:------------|:-----|
+| **B.E. Computer Science & Engineering** | SRM Valliammai Engineering College, Kattankulathur, Tamil Nadu | Nov 2022 – May 2026 | 
+| **12th Grade (HSC)** | Vivekanandha Higher Secondary School, Pondicherry | 2021 – 2022 | 
+| **10th Grade (SSLC)** | St. Patrick Matric Higher Secondary School, Pondicherry | 2019 – 2020 | 
 
 </div>
 
